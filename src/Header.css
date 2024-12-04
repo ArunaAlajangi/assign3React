@@ -1,0 +1,60 @@
+.firstPage {
+    height:100vh ;
+    width: 100vw;
+    margin: ;
+    background-image: url('/img1.jpg'); /* Ensure the image is in the public folder */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
+  
+  .page-Content {
+    
+    padding: 20px;
+    border-radius: 10px;
+    margin-left:600px;
+    
+  }
+  
+  .page-Content h4 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    
+  }
+  
+  .page-Content h1 {
+    font-size: 3rem;
+    margin: 10px 0;
+  }
+  
+  .page-Content h5 {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    font-style: italic;
+  }
+  
+  .page-Content button {
+    background-color: #ff7f50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .page-Content button:hover {
+    background-color: #ff6347;
+  }
+  
+      
+        
+      
+
+
